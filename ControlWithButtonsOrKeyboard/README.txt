@@ -1,0 +1,1 @@
+This folder contains code pertaining to moving two servos with either buttons or with a keyboard. This was the first implementation I did for this little project... it's not very useful, but it was good practice for a newbie.
